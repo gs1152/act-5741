@@ -1,0 +1,60 @@
+
+NIO Q3 FY2021 Earnings Report Preview: What to Look For
+Focus on NIO automobiles sold
+By MATTHEW JOHNSTON Published November 08, 2021
+KEY TAKEAWAYS
+Analysts estimate EPS of -RMB0.90 (-$0.14) vs. -RMB0.98 in Q3 FY 2020.
+1
+Automobiles sold, already announced, rose at a robust pace YOY.
+Revenue is expected to rise at a healthy pace, but slower than the previous three quarters.
+NIO Inc. (NIO) has rapidly expanded its electric vehicle (EV) sales over the past few years, helping the China-based automaker to sharply narrow its financial losses in the latest reported quarter. But NIO now is facing new challenges. Sales have been slowing in recent quarters, and its vehicle deliveries in October were down more than 65% compared to September and nearly 28% compared to the same period a year ago.
+2
+ NIO said the dramatic slowdown in deliveries was caused by several factors, including upgrades to its manufacturing lines, preparations for new products, and ongoing supply chain issues.
+3
+
+Investors are likely to focus on how these developments are affecting NIO's recent financial performance when the company reports earnings on Nov. 9, 2021 for Q3 FY 2021.
+4
+ Analysts expect the EV maker's loss per share to narrow compared to the year-ago quarter as revenue continues to grow at a rapid, albeit decelerating pace.
+5
+ Note that NIO shares referred to throughout this story represent NYSE-listed American depositary shares (ADS) with the ticker NIO.
+
+Investors are also closely watching the number of automobiles NIO sells or delivers. The electric carmaker reported its third-quarter vehicle deliveries at the start of October. Total vehicle deliveries came in above analysts' expectations, but grew at a decelerating pace compared to recent quarters.
+5
+6
+
+Shares of NIO have dramatically underperformed the broader market over the past year. The stock had been mostly outperforming roughly from early November 2020 through late February 2021. But it has mostly lagged the market since the beginning of March 2021. NIO's shares have provided a total return of -0.1% over the past year, well below the S&P 500's total return of 33.8%.
+
+One Year Total Return for S&P 500 and NIO
+Source: TradingView.
+NIO Earnings History
+NIO reported Q2 FY 2021 earnings and revenue that beat analysts' expectations. The company reported a loss per share of RMB0.42, less than half the loss per share reported in the year-ago quarter. Revenue rose 127.2% year over year (YOY), decelerating from the rapid pace set in the previous quarter.
+5
+ NIO said that it was still facing uncertainties regarding its global supply chain, but that it was working closely with its partners to improve overall production capacity.
+7
+
+In Q1 FY 2021, NIO missed its earnings estimates but beat on revenue. The EV maker reported a loss per share of RMB3.14, nearly double the loss per share posted in the year-ago quarter. Revenue rose 481.8% YOY, its fastest pace since the second quarter of FY 2019.
+5
+ NIO said that product demand continued to be strong during the quarter but that its supply chain was still facing significant challenges related to the global semiconductor shortage.
+8
+
+Analysts expect another loss per share as revenue grows at a robust, albeit slowing pace. NIO is expected to post a loss per share that is slightly smaller compared to the year-ago quarter but more than double the loss per share compared to the previous quarter. Revenue is expected to rise 104.0% YOY, its slowest pace since the first quarter of FY 2020.
+5
+
+NIO Key Stats
+ 	Q3 FY 2021	Q3 FY 2020	Q3 FY 2019
+Earnings Per Share (RMB)	-0.90 (estimate)	-0.98	-2.48
+Revenue (RMB, billions)	9.2 (estimate)	4.5	1.8
+Automobiles Sold	24,439 (actual)	12,210	4,800
+Source: Visible Alpha
+
+The Key Metric
+As mentioned above, investors are also watching the number of automobiles NIO sells each quarter. The number of automobiles sold is also referred to as vehicle deliveries by the company. NIO generates some revenue from the other products and services it provides, but the majority of revenue is derived from vehicle sales.
+9
+ The company makes deliveries of three types of vehicles: the ES8, the company's six-seater or seven-seater flagship premium smart electric SUV; the ES6, the company’s five-seater high-performance premium smart electric SUV; and the EC6, the company’s five-seater premium electric coupe SUV.
+6
+ The number of vehicle deliveries provides an indication of the demand for NIO's vehicles as well as the company's ability to scale production. For NIO, that ability is complicated by the global chip shortage and other supply chain constraints.
+10
+
+NIO's automobile sales have significantly ramped up over the last few years. In FY 2018, the company sold a total of 11,350 vehicles. That number rose 81.2% by the end of FY 2019. The pace of growth accelerated to 112.6% in FY 2020 as NIO sold approximately 43,730 vehicles last year. The acceleration trend continued into the first quarter of FY 2021 with vehicle sales expanding 422.7% YOY. Growth slowed to 111.9% YOY in Q2 FY 2021 and again to a pace of 100.2% YOY in the third quarter. However, total sales in Q3 are more than double the total sold in all of FY 2018. For full-year FY 2021, analysts expect the EV maker to sell a total of 92,840 automobiles, which would be more than double the amount sold in the previous year.
+5
+
