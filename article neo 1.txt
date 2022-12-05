@@ -1,0 +1,41 @@
+NIO has a "high" Earnings Quality Ranking (EQR) for the 3rd consecutive week. Earnings quality refers to the extent to which current earnings predict future earnings. "High-quality" earnings are expected to persist, while "low-quality" earnings do not. EQR is a weekly ranking of relative earnings quality for a large universe of publicly traded US equities. Companies are compared to peers in their industry. Find out more about EQR data.
+Latest Press Release
+PUBLISHED
+NOV 10, 2022
+NIO Inc. Reports Unaudited Third Quarter 2022 Financial Results
+Earnings Per Share
+ESTIMATED REPORTED
+4Q'211Q'222Q'223Q'224Q'221Q'232Q'233Q'23-0.4-0.3-0.2-0.10EPS
+ESTIMATED EPS 1.00
+REPORTED EPS: 1.00
+Quarterly Earnings Surprise Amount
+Fiscal Quarter End	Date Reported	Earnings Per Share*	Consensus EPS* Forecast	% Surprise
+Sep 2022	11/10/2022	-0.36	N/A	N/A
+Jun 2022	09/07/2022	-0.25	N/A	N/A
+Mar 2022	06/09/2022	-0.18	N/A	N/A
+Dec 2021	03/24/2022	-0.21	N/A	N/A
+Yearly Earnings Forecast
+Fiscal Year End	Consensus EPS* Forecast	High EPS* Forecast	Low EPS* Forecast	Number Of Estimates	Over The Last 4 Weeks Number Of Revisions - Up	Over The Last 4 Weeks Number Of Revisions - Down
+Dec 2022	-0.86	-0.41	-1.05	4	1	2
+Dec 2023	-0.48	-0.07	-0.71	4	0	3
+Dec 2024	0.1	0.41	-0.17	3	0	0
+Dec 2025	1.09	1.62	0.55	2	0	0
+Quarterly Earnings Forecast
+Data is currently not available
+ 	 
+ 	 
+ 	 
+ 	 
+Change in Consensus
+FISCAL YEAR END DEC 2022 FISCAL QUARTER END DEC 2022
+1 Month Ago
+1 Week Ago
+Current
+-1k01k2k
+Number of Estimates Changed
+ 	 
+Fiscal QE Dec 2022 Down	0
+Fiscal QE Dec 2022 Up	0
+Fiscal YR Dec 2022 Down	2
+Fiscal YR Dec 2022 Up	1
+Estimate Momentum measures change in analyst sentiment over time and may be an indicator of future price movements. The Change in Consensus chart shows the current, 1 week ago, and 1 month ago consensus earnings per share (EPS*) forecasts. For the fiscal quarter endingDec 2022 , the consensus EPS* forecast has remained the same over the past week at 999 and remained the same over the past month at 999. none raised and none lowered their forecast. For the fiscal year ending Dec 2022 , the consensus EPS* forecast has decreased over the past week from -0.81 to -0.86(999) and decreased over the past month from -0.69 to -0.81(17.39%). Of the 3 analysts making yearly forecasts, 1raised and 2 lowered their forecast.
