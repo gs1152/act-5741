@@ -1,0 +1,153 @@
+NIO Inc. Reports Unaudited Third Quarter 2019 Financial Results
+Quarterly Total Revenues reached RMB1,836.8 million (US$257.0 million)
+Quarterly Deliveries of the ES8 and the ES6 were 4,799 vehicles
+
+SHANGHAI, China, Dec. 30, 2019 (GLOBE NEWSWIRE) -- NIO Inc. (“NIO” or the “Company”) (NYSE: NIO), a pioneer in China’s premium electric vehicle market, today announced its unaudited financial results for the third quarter ended September 30, 2019.
+
+Operating Highlights for the Third quarter of 2019         
+
+Deliveries of vehicles were 4,799 in the third quarter of 2019 including 4,196 ES6s and 603 ES8s, compared with 3,553 vehicles delivered in the second quarter of 2019.
+Key Operating Results	 	 	 
+ 	2019 Q3	2019 Q2	2019 Q1
+Deliveries	4,799	3,553	3,989
+Financial Highlights for the Third quarter of 2019
+
+Vehicle sales were RMB1,733.5 million (US$242.5 million) in the third quarter of 2019, representing an increase of 22.5% from the second quarter of 2019 and an increase of 21.5% from the same quarter of 2018.
+Vehicle margin1 was negative 6.8%, compared with negative 24.1% in the second quarter of 2019 and negative 4.3% in the same quarter of 2018.
+Total revenues were RMB1,836.8 million (US$257.0 million) in the third quarter of 2019, representing an increase of 21.8% from the second quarter of 2019 and an increase of 25.0% from the same quarter of 2018.
+Gross margin was negative 12.1%, compared with negative 33.4% in the second quarter of 2019 and negative 7.9% in the same quarter of 2018.
+Loss from operations was RMB2,409.2 million (US$337.1 million) in the third quarter of 2019, representing a decrease of 25.3% from the second quarter of 2019 and a decrease of 14.3% from the same quarter of 2018. Excluding share-based compensation expenses, adjusted loss from operations (non-GAAP) was RMB2,338.8 million (US$327.2 million) in the third quarter of 2019, representing a decrease of 25.4% from the second quarter of 2019 and a 1.6% decrease from the same quarter of 2018.
+Net loss was RMB2,521.7 million (US$352.8 million) in the third quarter of 2019, representing a decrease of 23.3% from the second quarter of 2019 and a decrease of 10.3% from the same quarter of 2018. Excluding share-based compensation expenses, adjusted net loss (non-GAAP) was RMB2,451.2 million (US$342.9 million) in the third quarter of 2019, representing a decrease of 23.2% from the second quarter of 2019 and a 3.1% increase from the same quarter of 2018.
+Net loss attributable to NIO’s ordinary shareholders was RMB2,553.6 million (US$357.3 million) in the third quarter of 2019, representing a decrease of 22.9% from the second quarter of 2019 and a decrease of 73.8% from the same quarter of 2018. Excluding share-based compensation expenses and accretion on redeemable non-controlling interests to redemption value, adjusted net loss attributable to NIO’s ordinary shareholders (non-GAAP) was RMB2,451.3 million (US$342.9 million).
+Basic and diluted net loss per American depositary share (ADS)2 were both RMB2.48(US$0.35) in the third quarter of 2019. Excluding share-based compensation expenses and accretion on redeemable non-controlling interests to redemption value, adjusted basic and diluted net loss per ADS (non-GAAP) were both RMB2.38(US$0.33).
+Cash and cash equivalents, restricted cash and short-term investment were RMB1,960.7 million (US$274.3 million) as of September 30, 2019.
+Key Financial Results
+
+ 
+
+(in RMB million, except for per
+ordinary share data and
+percentage)	 	 	 	 	 	 	 
+ 	 	2019 Q3	2019 Q2	 	2018 Q3	 	% Change3
+ 	 	 	 	 	 	QoQ	YoY
+Vehicle Sales	 	1,733.5	 	1,414.5	 	 	1,426.9	 	 	22.5	%	21.5	%
+Vehicle Margin	 	-6.8	%	-24.1	%	 	-4.3	%	 	17.3	%	-2.5	%
+Total Revenues	 	1,836.8	 	1,508.6	 	 	1,469.6	 	 	21.8	%	25.0	%
+Gross Margin	 	-12.1	%	-33.4	%	 	-7.9	%	 	21.3	%	-4.2	%
+Loss from Operations	 	(2,409.2	)	(3,226.1	)	 	（2,809.9	)	 	-25.3	%	-14.3	%
+Adjusted Loss from Operations (non-GAAP)	(2,338.8	)	(3,133.9	)	 	(2,377.7	)	 	-25.4	%	-1.6	%
+Net Loss	 	(2,521.7	)	(3,285.8	)	 	(2,810.4	)	 	-23.3	%	-10.3	%
+Adjusted Net Loss (non-GAAP)	(2,451.2	)	(3,193.6	)	 	(2,378.2	)	 	-23.2	%	3.1	%
+Net Loss Attributable to Ordinary Shareholders	(2,553.6	)	(3,313.7	)	 	(9,756.8	)	 	-22.9	%	-73.8	%
+Net Loss per Ordinary Share-Basic and Diluted	(2.48	)	(3.23	)	 	(42.59	)	 	-23.1	%	-94.2	%
+Adjusted Net Loss per Ordinary Share-Basic and Diluted (non-GAAP)	(2.38	)	(3.11	)	 	(10.35	)	 	-23.3	%	-77.0	%
+New Product Announcements
+
+On December 28, 2019, the third NIO Day was held in Shenzhen, China. The Company announced the 100-kWh battery pack and 20-kW DC Power Home. Deliveries of 100-kWh battery pack are estimated to begin in 2020 Q4 and expected to significantly improve the driving range of all NIO vehicle models. Aided by the Company’s proprietary battery-swap technologies, NIO offers its users flexible battery upgrade programs, making “Battery as a Service” a unique value proposition.
+ 
+At this event, the Company unveiled its third production model, the EC6, a smart premium electric coupe SUV. The EC6 performance version is equipped with a 160-kW permanent magnet motor and a 240-kW induction motor and capable of accelerating from zero to 100 kph in just 4.7 seconds. With the 100-kWh battery pack, the EC6 performance version boasts an NEDC range of up to 615 km. NIO plans to announce the prices and specifications of EC6 in July and the delivery is expected to begin in September 2020.
+ 
+During the NIO Day, the Company released the all-new ES8, the flagship smart premium electric SUV. With the 100-kWh battery pack, the all-new ES8 has an NEDC range of up to 580 km, a major improvement in its range performance. The Company plans to commence deliveries of the new ES8 in April 2020.
+CEO and CFO Comments
+
+“NIO delivered a total of 4,799 ES8 and ES6 vehicles in the third quarter of 2019, representing a 35.1% increase from the second quarter. The electric vehicle sector experienced substantial softness in the second half of 2019 after the reduction of EV subsidies in China. Despite the challenges, NIO’s sales improved solidly since September,” said William Bin Li, founder, chairman and chief executive officer of NIO. “Our strong performance was attributable to the competitiveness of our products and services, the recognition and strong support from our user community, and our sales network expansion strategy as we continue to launch more efficient NIO Spaces. We expect over 8,000 vehicles to be delivered in the fourth quarter, a record of quarterly deliveries in our history. With that, the total aggregate deliveries in 2019 are estimated to reach over 20,300.
+
+“On December 28, we hosted our third annual NIO Day, dedicated to and for, our user community. During the event, we unveiled a brand-new model, the EC6, a smart premium electric coupe SUV, showcasing our pursuit of both high performance and stylish design in our products. We also launched the all-new ES8, NIO’s flagship model, being well positioned to become the most competitive electric SUV in the mid to large size segment. Furthermore, we will make available a 100-kWh battery pack, which will significantly increase the NEDC driving range of the new ES8, ES6 and EC6 to 580, 610 and 615 kilometers respectively.
+
+“We had delivered over 30,000 vehicles in 296 cities since June 2018, expanded our product offerings to 3 competitive SUV models, and successfully established the only premium EV brand from China. We are proud of our team for the speedy and solid execution. We will continue to drive forward by improving our products and services, enhancing our sales and service network, as well as building our user community,” concluded Mr. Li.
+
+“Facing a continuous soft auto market, we strongly believe the smart premium EV sector will outperform the industry in its growth rate in the foreseeable future. NIO ranked the highest in new vehicle quality among all brands in JD Power’s 2019 New Energy Vehicle Experience Index Study. Additionally, ES6 achieved No.1 in electric SUV sales and top 10 ranking in mid-size premium SUV sales, including ICE and electric vehicle models, in China in October and November. We are pleased to see the momentum continues,” added Wei Feng, NIO’s chief financial officer. “During the quarter, we also implemented comprehensive cost control measures across the organization to improve operational efficiency. As a result, our third quarter SG&A and R&D expenses decreased by 18.1% and 21.3% respectively, compared with the second quarter, and we expect further efficiency gains in the fourth quarter.”
+ 
+Financial Results for the Third Quarter of 2019
+
+Revenues
+
+Vehicle sales in the third quarter of 2019 were RMB1,733.5 million (US$242.5 million) in the third quarter of 2019, representing an increase of 22.5% from the second quarter of 2019 and an increase of 21.5% from the same quarter of 2018. The increase in vehicle sales over the second quarter of 2019 was mainly contributed by the sales of ES6s.
+ 
+Other sales in the third quarter of 2019 were RMB103.4 million (US$14.5 million), representing an increase of 9.9% from the second quarter of 2019 and an increase of 142.1% from the same quarter of 2018. The increase in other sales over the second quarter of 2019 was mainly attributed by the increased sales of charging piles and accessories, which was in line with the increase in vehicle deliveries.
+ 
+Total revenues in the third quarter of 2019 were RMB1,836.8 million (US$257.0 million), representing an increase of 21.8% from the second quarter of 2019 and an increase of 25.0% from the same quarter of 2018.
+Cost of Sales and Gross Margin
+
+Cost of sales in the third quarter of 2019 was RMB2,058.4 million (US$288.0 million), representing an increase of 2.3% from the second quarter of 2019 and an increase of 29.8% from the same quarter of 2018. The slight increase in cost of sales over the second quarter of 2019 was due to the increase of sales in the third quarter of 2019 and was offset by the decreased cost of sales compared to cost of sales in the second quarter, which included accrued recall costs in relation to the Company’s voluntary recall of 4,803 vehicles announced on June 27, 2019.
+ 
+Vehicle margin in the third quarter of 2019 was negative 6.8%, compared with negative 24.1% in the second quarter of 2019 and negative 4.3% in the same quarter of 2018. The improved vehicle margin was mainly due to the recall costs in the second quarter of 2019 as above mentioned, and the lack thereof in the third quarter of 2019.
+ 
+Gross margin in the third quarter of 2019 was negative 12.1%, compared with negative 33.4% in the second quarter of 2019 and negative 7.9% in the same quarter of 2018. The increase of gross margin over the second quarter of 2019 was mainly due to the improved vehicle margin in the third quarter.
+Operating Expenses            
+
+Research and development expenses in the third quarter of 2019 were RMB1,023.2 million (US$143.2 million), representing a decrease of 21.3% from the second quarter of 2019 and relatively unchanged compared with the same quarter of 2018. Excluding share-based compensation expenses, adjusted research and development expenses (non-GAAP) were RMB1,003.6 million (US$140.4 million), representing a decrease of 21.7% from the second quarter of 2019 and an increase of 5.9% from the same quarter of 2018. The decrease in research and development expenses over the second quarter of 2019 was primarily attributed to less testing expenses incurred in the third quarter after the initial launch of ES6 in June.
+ 
+Selling, general and administrative expenses in the third quarter of 2019 were RMB1,164.4 million (US$162.9 million), representing a decrease of 18.1% from the second quarter of 2019 and a decrease of 30.3% from the same quarter of 2018. Excluding share-based compensation expenses, adjusted selling, general and administrative expenses (non-GAAP) were RMB1,116.3 million (US$156.2 million), representing a decrease of 17.4% from the second quarter of 2019 and a decrease of 15.6% from the same quarter of 2018. The decrease in selling, general and administrative expenses over the second quarter of 2019 was primarily driven by the Company’s overall cost-saving measures in marketing and other supporting functions.
+Loss from Operations
+
+Loss from operations in the third quarter of 2019 was RMB2,409.2 million (US$337.1 million) in the third quarter of 2019, representing a decrease of 25.3% from the second quarter of 2019 and a 14.3% decrease from the same quarter of 2018. Excluding share-based compensation expenses, adjusted loss from operations (non-GAAP) was RMB2,338.8 million (US$327.2 million) in the third quarter of 2019, representing a decrease of 25.4% from the second quarter of 2019 and a 1.6% decrease from the same quarter of 2018.
+Share-based Compensation Expenses
+
+Share-based compensation expenses in the third quarter of 2019 were RMB70.4 million (US$9.9 million), representing a decrease of 23.6% from the second quarter of 2019 and a decrease of 83.7% from the same quarter of 2018. The decrease in share-based compensation expenses over the second quarter of 2019 was primarily due to the continuous decrease of employee numbers, as well as the decreased expenses part of the share-based compensation recognized under the accelerated method.
+Net Loss and Earnings Per Share
+
+Net loss was RMB2,521.7 million (US$352.8 million) in the third quarter of 2019, representing a decrease of 23.3% from the second quarter of 2019 and a 10.3% decrease from the same quarter of 2018. Excluding share-based compensation expenses, adjusted net loss (non-GAAP) was RMB2,451.2 million (US$342.9 million) in the third quarter of 2019, representing a decrease of 23.2% from the second quarter of 2019 and a 3.1% increase from the same quarter of 2018.
+ 
+Net loss attributable to NIO’s ordinary shareholders in the third quarter of 2019 was RMB2,553.6 million (US$357.3 million) in the third quarter of 2019, representing a decrease of 22.9% from the second quarter of 2019 and a decrease of 73.8% from the same quarter of 2018. Excluding share-based compensation expenses and accretion on redeemable non-controlling interests to redemption value, adjusted net loss attributable to NIO’s ordinary shareholders (non-GAAP) was RMB2,451.3 million (US$342.9 million).
+ 
+Basic and diluted net loss per ADS in the third quarter of 2019 were both RMB2.48(US$0.35). Excluding share-based compensation expenses and accretion on redeemable non-controlling interests to redemption value, adjusted basic and diluted net loss per ADS (non-GAAP) were both RMB2.38(US$0.33).
+Balance Sheets
+
+Balance of cash and cash equivalents, restricted cash and short-term investment was RMB1,960.7 million (US$274.3 million) as of September 30, 2019.
+ 
+The Company operates with continuous loss and negative equity. The Company’s cash balance is not adequate to provide the required working capital and liquidity for continuous operation in the next 12 months. The Company’s continuous operation, which has also constituted the basis of preparing the Company’s third quarter unaudited financial information, depends on the Company’s capability to obtain sufficient external equity or debt financing. The Company is currently working on several financing projects, the consummation of which is subject to certain uncertainties. The Company will announce any material developments or information subject to the requirements by applicable laws.
+ 
+On January 1, 2019, the Company adopted ASC 842 Leases and used the additional transition method to initially apply this new lease standard at the adoption date. Right-of-use assets and lease liabilities were recognized on the Company's consolidated financial statements.
+Business Outlook
+
+For the fourth quarter of 2019, the Company expects:
+
+Deliveries of vehicles to be over 8,000 units, representing an increase of over 66.7% from the third quarter of 2019.
+ 
+Total revenues to be approximately RMB2,810 million (US$393.2 million), representing an increase by approximately 53.0% from the third quarter of 2019.
+This business outlook reflects the Company’s current and preliminary view on the business situation and market condition, which is subject to change.
+
+Conference Call
+
+Management will hold a conference call at 7:00 a.m. Eastern Time (8:00 p.m. Beijing Time) on December 30, 2019 to discuss financial results and answer questions from investors and analysts. Listeners may access the call by dialing in:
+
+United States:	+1-845-675-0437
+International:	+65-6713-5090
+Hong Kong:	+852-3018-6771
+Conference ID:	6378226
+Additionally, a live and archived webcast of the conference call will be available on the Company’s investor relations website at http://ir.nio.com.
+
+A replay of the conference call will be accessible by phone approximately two hours after the conclusion of the live call at the following numbers, until January 7, 2020  07:59 a.m. Eastern Time:
+
+United States:	+1-646-254-3697
+International:	+61-2-8199-0299
+Hong Kong:	+852-3051-2780
+Conference ID:	6378226
+About NIO Inc.
+
+NIO Inc. is a pioneer in China’s premium electric vehicle market. Founded in November 2014, NIO’s mission is to shape a joyful lifestyle by offering premium smart electric vehicles and being the best user enterprise. NIO designs, jointly manufactures, and sells smart and connected premium electric vehicles, driving innovations in next generation technologies in connectivity, autonomous driving and artificial intelligence. Redefining the user experience, NIO provides users with comprehensive, convenient and innovative charging solutions and other user-centric services. NIO began deliveries of the ES8, a 7-seater high-performance premium electric SUV in China in June 2018, and its variant, the six-seater ES8, in March 2019. NIO officially launched the ES6, a 5-seater high-performance premium electric SUV, in December 2018 and began deliveries in June 2019. NIO officially launched the EC6, a 5-seater smart premium electric Coupe SUV, in December 2019 and plans to commence deliveries in 2020.
+
+Safe Harbor Statement
+
+This press release contains statements that may constitute “forward-looking” statements pursuant to the “safe harbor” provisions of the U.S. Private Securities Litigation Reform Act of 1995. These forward-looking statements can be identified by terminology such as “will,” “expects,” “anticipates,” “aims,” “future,” “intends,” “plans,” “believes,” “estimates,” “likely to” and similar statements. Among other things, the Business Outlook and quotations from management in this announcement, as well as NIO’s strategic and operational plans, contain forward-looking statements. NIO may also make written or oral forward-looking statements in its periodic reports to the U.S. Securities and Exchange Commission (the “SEC”), in its annual report to shareholders, in press releases and other written materials and in oral statements made by its officers, directors or employees to third parties. Statements that are not historical facts, including statements about NIO’s beliefs, plans and expectations, are forward-looking statements. Forward-looking statements involve inherent risks and uncertainties. A number of factors could cause actual results to differ materially from those contained in any forward-looking statement, including but not limited to the following: NIO’s strategies; NIO’s future business development, financial condition and results of operations; NIO’s ability to obtain sufficient external equity or debt financing; NIO’s ability to develop and manufacture a car of sufficient quality and appeal to customers on schedule and on a large scale; its ability to grow manufacturing in collaboration with partners; its ability to provide convenient charging solutions to our customers; its ability to satisfy the mandated safety standards relating to motor vehicles; its ability to secure supply of raw materials or other components used in our vehicles; its ability to secure sufficient reservations and sales of the ES8 and ES6; its ability to control costs associated with our operations; its ability to build our NIO brand; general economic and business conditions globally and in China and assumptions underlying or related to any of the foregoing. Further information regarding these and other risks is included in NIO’s filings with the SEC. All information provided in this press release is as of the date of this press release, and NIO does not undertake any obligation to update any forward-looking statement, except as required under applicable law.
+
+Non-GAAP Disclosure
+
+The Company uses non-GAAP measures, such as adjusted cost of sales (non-GAAP), adjusted research and development expenses (non-GAAP), adjusted selling, general and administrative expenses (non-GAAP), adjusted loss from operations (non-GAAP), adjusted net loss (non-GAAP), adjusted net loss attributable to ordinary shareholders (non-GAAP), adjusted basic and diluted net loss per share (non-GAAP) and adjusted basic and diluted net loss per ADS (non-GAAP), in evaluating its operating results and for financial and operational decision-making purposes. By excluding the impact of share-based compensation expenses, accretion on convertible redeemable preferred shares to redemption value and accretion on redeemable non-controlling interests to redemption value, the Company believes that the non-GAAP financial measures help identify underlying trends in its business and enhance the overall understanding of the Company’s past performance and future prospects. The Company also believes that the non-GAAP financial measures allow for greater visibility with respect to key metrics used by the Company’s management in its financial and operational decision-making.
+
+The non-GAAP financial measures are not presented in accordance with U.S. GAAP and may be different from non-GAAP methods of accounting and reporting used by other companies. The non-GAAP financial measures have limitations as analytical tools and when assessing the Company’s operating performance, investors should not consider them in isolation, or as a substitute for net loss or other consolidated statements of comprehensive loss data prepared in accordance with U.S. GAAP. The Company encourages investors and others to review its financial information in its entirety and not rely on a single financial measure.
+
+The Company mitigates these limitations by reconciling the non-GAAP financial measures to the most comparable U.S. GAAP performance measures, all of which should be considered when evaluating the Company’s performance.
+
+For more information on the non-GAAP financial measures, please see the table captioned “Unaudited Reconciliation of GAAP and Non-GAAP Results” set forth at the end of this press release.
+
+Exchange Rate
+
+This announcement contains translations of certain Renminbi amounts into U.S. dollars at specified rates solely for the convenience of the reader. Unless otherwise stated, all translations from Renminbi to U.S. dollars were made at the rate of RMB7.1477 to US$1.00, the noon buying rate in effect on September 30, 2019 in the H.10 statistical release of the Federal Reserve Board. The Company makes no representation that the Renminbi or U.S. dollars amounts referred could be converted into U.S. dollars or Renminbi, as the case may be, at any particular rate or at all.
+
+Statement Regarding Preliminary Unaudited Financial Information
+
+The unaudited financial information set out in this earnings release is preliminary and subject to potential adjustments. Adjustments to the consolidated financial statements may be identified when audit work has been performed for the Company’s year-end audit, which could result in significant differences from this preliminary unaudited financial information.
+
+For more information, please visit: http://ir.nio.com.
