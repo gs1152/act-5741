@@ -1,0 +1,29 @@
+Nio, the Tesla-wannabe electric vehicle firm from China, enjoyed a mixed start to life as a public company after it raised $1 billion through a listing on the New York Stock Exchange on Wednesday.
+
+The firm went public at $6.26 — just one cent above the bottom of its pricing range — meaning that it raised a little over $1 billion. That’s some way down on its original goal of $1.8 billion, per an initial filing in August, and for a while it looked like even that price was optimistic. Early trading saw Nio’s stock fall as low as $5.84 before a wave of optimism took it to $6.81.
+
+The stock closed its first day at $6.60, up 12 percent overall, to give Nio a total market cap of $7.1 billion.
+
+Sponsored Content
+Data Access - Pinterest builds trust with Pinners - And developers build customer delight
+Sponsored by AWS
+AWS creates fine-grained controls, catalogs, and metadata that reassure organizations they’re exceeding regulations; AWS organizational services simplify permissions, helping builders move faster.
+
+
+
+
+Nio sells in China only, although its tech and design teams are based in the U.S, UK and Germany.
+
+Its main model, the ES8, is designed for the masses and is priced at 448,000 RMB, or around $65,000. That makes it cheaper than Tesla vehicles in China but it has only just got to making money. Nio has accrued some 17,000 orders for the vehicle, but it only began shipping in June. As a result, it has posted some pretty heavy losses in recent times — including minus $759 million in 2017.
+
+
+
+Ultimately, the firm raised $1 billion but its leadership may be disappointed that the final sum is well short of its original target.
+
+Reasons behind lukewarm investor interest may include:
+
+General concerns around the performance of Chinese firms, bellwether Tencent just had a rare profit drop, for example
+A crackdown on 30 other EV firms from the Chinese government, which followed a number of incidents including the reported explosion of a vehicle from WM Motor
+A knock-on effect from poor results from Tesla, which remains Nio’s main rival and carded wider-than-expected losses last month
+While there is also the ongoing spectacle that is the Trump administration’s ongoing trade war with China, which resulted in a range of new tariffs being issued last week
+Meanwhile, Nio is far from the newest kid on the block. Byton, another Chinese EV firm with global operations, is preparing to send prototype SUVs to the U.S. for the first time, as TechCrunch reported earlier this month. Byton, which raised $500 million from investors in June, is one of a number of competitors to Nio which also include BYD — a startup backed by Warren Buffet’s Berkshire Hathaway — Youxia, MW Motor and others.
