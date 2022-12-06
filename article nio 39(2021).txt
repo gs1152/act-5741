@@ -1,0 +1,53 @@
+COMPANY NEWS  EARNINGS REPORTS AND NEWS
+NIO Q3 2021 Earnings Report Recap
+NIO missed on earnings but beat on revenue
+By MATTHEW JOHNSTON Published November 09, 2021
+KEY TAKEAWAYS
+NIO delivered 24,439 vehicles in the third quarter, beating analyst estimates.
+Vehicle deliveries provide an indication of demand for NIO's main source of revenue as well as the company's productive capacity.
+NIO expects to deliver between 23,500 and 25,500 vehicles in Q4 FY 2021 despite still facing a number of supply chain challenges.
+NIO Earnings Results
+Metric	Beat/Miss/Match	Reported Value	Analysts' Prediction
+Earnings Per Share	Miss	RMB -1.82	RMB -0.90
+Revenue	Beat	RMB 9.8B	RMB 9.2B
+Vehicle Deliveries (i.e. Automobiles Sold)	Beat	24,439	22,980
+Source: Predictions based on analysts' consensus from Visible Alpha
+
+NIO Financial Results: Analysis
+
+NIO Inc. (NIO) reported mixed financial results for Q3 FY 2021. The company posted a loss per share of RMB 1.82 ($0.28), more than twice as large as the loss per share analysts expected.
+1
+ Revenue, however, beat expectations, rising 116.6% year over year (YOY).
+2
+ NIO's vehicle deliveries, which were reported at the beginning of October, exceeded analysts' forecasts.
+3
+4
+ The company's shares fell more than 2% in post-market trading. Over the past year, NIO's shares have provided a total return of -7.7%, well below the S&P 500's total return of 32.0%.
+5
+
+Note that NIO shares referred to throughout this story represent NYSE-listed American depositary shares (ADS) with the ticker NIO.
+
+NIO Vehicle Deliveries
+Most of NIO's revenue is generated through the sale of vehicles. NIO delivered a total of 24,439 vehicles in Q3 FY 2021, up 102.2% from the year-ago quarter. Total vehicle deliveries can be broken down into deliveries of three models:
+
+5,418 ES8s, the company's 6-seater and 7-seater flagship premium smart electric SUV
+11,271 ES6s, the company's 5-seater high-performance premium smart electric SUV
+7,750 EC6s, the company's 5-seater premium electric coupe SUV
+2
+4
+The number of vehicle deliveries provides an indication of the demand for NIO's vehicles as well as the company's ability to scale production. NIO has faced a number of supply chain issues this year, including challenges related to the global semiconductor shortage. The company noted in its Q3 earnings press release that vehicle deliveries for the month of October fell 27.5% YOY. NIO cited upgrades to manufacturing lines, preparations for new products, and volatility in supply chains as reasons for the significant decline in deliveries compared to the same period a year ago.
+2
+
+"Despite the continued supply chain volatilities, our teams and partners are working closely together to secure the supply and production for the fourth quarter of 2021," said William Bin Li, the company's founder, chairman, and chief executive officer.
+2
+
+Total vehicle sales were RMB 8.6 billion, up 102.4% compared to the year-ago quarter. Vehicle sales accounted for about 88% of NIO's total revenue for the quarter. The company's vehicle margin, a measure of gross margin for vehicle sales, was 18.0% compared to 14.5% in the year-ago quarter. When vehicle margin is higher, it means that more vehicle sales are being generated relative to the costs of making those vehicles. NIO said that the YOY rise in its vehicle margin was primarily driven by higher average selling prices and lower material costs.
+2
+
+NIO Vehicle Delivery and Revenue Outlook
+NIO expects vehicle deliveries for Q4 FY 2021 to be between 23,500 and 25,500, which would represent a YOY increase of approximately 35.4% to 46.9%. It expects revenue to rise between 41.2% and 52.2% compared to the fourth quarter of FY 2020.
+2
+
+NIO's next earnings report (for Q4 FY 2021) is estimated to be released on Feb. 28, 2022.
+6
+
